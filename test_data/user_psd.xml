@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<class>#元素节点
+
+    <user>#元素节点
+        <type>admin</type>#文本节点
+        <remark>账号为空密码为空</remark>
+        <username> </username>
+        <password> </password>
+    </user>
+
+    <user>#元素节点
+        <type>admin</type>#文本节点
+        <remark>账号不正确密码正确</remark>
+        <username>admi</username>
+        <password>123456</password>
+    </user>
+
+    <user>#元素节点
+        <type>admin</type>#文本节点
+        <remark>账号正确密码不正确</remark>
+        <username>ghj</username>
+        <password>12345</password>
+    </user>
+
+    <user>#元素节点
+        <type>admin</type>#文本节点
+        <remark>账号密码正确</remark>
+        <username>ghj</username>
+        <password>123456</password>
+    </user>
+
+</class>

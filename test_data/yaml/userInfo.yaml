@@ -1,0 +1,44 @@
+loUser:
+  password: 123456
+  repassword: 123456
+  email: 12312@qq.com
+  truename: ghj
+  oicq: 1213
+  msn: no
+  mycall: 121312
+  phone: 123123
+  homepage: https://blog.csdn.net/qq_24601279/article/details/100661067
+  address: tianhe1hao
+  zip: 21321
+  saytext: "\u6211\u662F\u6D4B\u8BD5\u738B\u5B50"
+
+reUserT:
+  password: 123456
+  repassword: 123456
+  email: 12312@qq.com
+  truename: ghj
+  oicq: 34294250
+  msn: no
+  mycall: 121312
+  phone: 123123
+  homepage: https://blog.csdn.net/qq_24601279/article/details/100661067
+  address: tianhe1hao
+  zip: 21321
+  saytext: "\u6211\u662F\u6D4B\u8BD5\u738B\u5B50"
+
+reComT:
+  password: 123456
+  repassword: 123456
+  email: 12312@qq.com
+  company: "\u534E\u4E3A\u4FE1\u606F\u6280\u672F\u6709\u9650\u516C\u53F8"
+  truename: ghj
+  mycall: 234234
+  msn: no
+  oicq: 1213
+  phone: 123123
+  fax: no
+  homepage: https://blog.csdn.net/qq_24601279/article/details/100661067
+  address: tianhe1hao
+  zip: 21321
+  saytext: "\u6211\u662F\u6D4B\u8BD5\u738B\u5B50"
+

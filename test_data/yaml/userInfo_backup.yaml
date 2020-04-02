@@ -1,0 +1,44 @@
+loUser:
+  password: 123456
+  repassword: 123456
+  email: 12312@qq.com
+  truename: ghj
+  oicq: 1213
+  msn: no
+  mycall: 121312
+  phone: 123123
+  homepage: https://blog.csdn.net/qq_24601279/article/details/100661067
+  address: tianhe1hao
+  zip: 21321
+  saytext: 测试王子
+
+reUserT:
+  password: 123456
+  repassword: 123456
+  email: 12312@qq.com
+  truename: ghj
+  oicq: 1213
+  msn: no
+  mycall: 121312
+  phone: 123123
+  homepage: https://blog.csdn.net/qq_24601279/article/details/100661067
+  address: tianhe1hao
+  zip: 21321
+  saytext: 测试王子
+
+reComT:
+  password: 123456
+  repassword: 123456
+  email: 12312@qq.com
+  company: 华为信息技术有限公司
+  truename: ghj
+  mycall: 234234
+  msn: no
+  oicq: 1213
+  phone: 123123
+  fax: no
+  homepage: https://blog.csdn.net/qq_24601279/article/details/100661067
+  address: tianhe1hao
+  zip: 21321
+  saytext: 测试王子
+
